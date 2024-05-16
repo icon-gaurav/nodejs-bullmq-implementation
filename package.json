@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-bullmq-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bullmq": "^5.7.8",
+    "ioredis": "^5.4.1"
+  }
+}
